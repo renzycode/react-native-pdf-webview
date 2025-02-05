@@ -1,0 +1,27 @@
+{
+  "name": "@renzycode/react-native-pdf-webview",
+  "version": "0.1.8",
+  "description": "A React Native component to display photos in a grid like Facebook's newsfeed.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react-native",
+    "pdf",
+    "webview",
+    "component",
+    "expo"
+  ],
+  "author": "Renzycode",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renzycode/react-native-pdf-webview.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renzycode/react-native-pdf-webview/issues"
+  },
+  "homepage": "https://github.com/renzycode/react-native-pdf-webview#readme"
+}
