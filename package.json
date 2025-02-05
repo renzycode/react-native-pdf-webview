@@ -1,6 +1,6 @@
 {
   "name": "@renzycode/react-native-pdf-webview",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "description": "A React Native component to display photos in a grid like Facebook's newsfeed.",
   "main": "index.js",
   "types": "index.d.ts",
