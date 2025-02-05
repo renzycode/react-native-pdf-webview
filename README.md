@@ -9,6 +9,10 @@
 - 📱 Responsive to device width
 - ⚡ Lightweight and easy to use
 
+<p align="center">
+  <img src="https://github.com/renzycode/react-native-pdf-webview/blob/main/assets/preview.png?raw=true" height="480" />
+</p>
+
 ## Installation
 
 ```bash
