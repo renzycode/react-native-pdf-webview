@@ -41,7 +41,7 @@ export default App;
 
 | Prop name  | Description                          | Type   | Required |
 | ---------- | ------------------------------------ | ------ | -------- |
-| `src`      | URL of the PDF to display           | string | true     |
+| `src`      | URL of the PDF to display            | string | true     |
 
 ## License
 
